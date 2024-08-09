@@ -46,7 +46,7 @@
 
  header h1{
     font-family: var(--font-titulo);
-    font-size: 5em;
+    font-size: 4em;
     color:var(--cor5);
     margin-bottom:10px;
     text-shadow: 2px 2px 2px rgba(230, 225, 225, 0.21);
