@@ -112,13 +112,12 @@ h2{ color:var(--cor5);
 
  }
 
-.container{
-    display: flex;
- }
-
 img{
+    display: block;
     height: 200px;
     width: 150px;
+    margin: auto;
+    padding-bottom: 10px;
 }
 
 .container p{
