@@ -49,7 +49,6 @@
     font-size: 5em;
     color:var(--cor5);
     margin: 0;
-    margin-block-end:-0.3em;
     text-shadow: 2px 2px 2px rgba(230, 225, 225, 0.21);
 }
 
