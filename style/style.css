@@ -55,8 +55,7 @@
 header p{
     color: var(--cor5);
     font-weight: bold;
-    font-family:var(--fonte-subtitulo);
-    padding-left: 40px;
+    font-family:var(--fonte-subtitulo);  
     padding-bottom: 50px;
     text-shadow: 2px 2px 2px rgba(230, 225, 225, 0.21);    
 }
