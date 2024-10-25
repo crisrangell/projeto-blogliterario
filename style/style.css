@@ -40,6 +40,11 @@
     background-image:linear-gradient(to top,#7c9a8d 10%, var(--cor1));
     text-align: center;
     padding-top: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   
     
  }
@@ -50,7 +55,7 @@
     color:var(--cor5);
     margin-bottom:10px;
     text-shadow: 2px 2px 2px rgba(230, 225, 225, 0.21);
-    display: inline-block;
+    
 }
 
 header p{
